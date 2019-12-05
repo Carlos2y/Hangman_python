@@ -1,0 +1,99 @@
+" A little bird drowing in coffe. "
+
+Desenvolver: Anderson
+	-/-  
+Debugger: Lord Fifth
+
+Ola me chamo Anderson, sou atualmente viciado em cafeina,
+codigos, e novels ( lvl 6 pela webnovel.com ) e comecei 
+meus estudos sobre programacao a um ano (hoje sao 04/12/2019)
+estou adentrando no 3° semestre no proximo ano
+2020.
+
+O objetivo desse projeto e o de auto-estudo 
+comecei a programa ja faz alguns meses usando
+python, inicei com a IDLE no 3.7 e mudei para o
+pycharm na 3.8.
+
+Obs.: Pretendo ainda analisar o downgrade para a 3.6 afim de
+usar o pygame.mixer, mas isso e para o futuro.
+
+Obs.: winsound nao serviu no fim pois pretendo adptar esse codigo
+ao linux e .wav nao seria muito pythonico.
+____________________________________________________________________________________
+
+O motivo do Jogo ser um Hangman ( Jogo da Forca )
+tem muito haver com meu ultimo desafio na materia de logica,
+usando portugol
+ 
+( Pseudocódigo, https://pt.wikipedia.org/wiki/Portugol )
+
+, feito pelo Prof.Alexandre, na Faculdade Evolucao, Ceara, 
+____________________________________________________________________________________
+
+tinhamos que construir um jogo da forca, no fim eu consegui,
+mas me senti muito limitado e preso, o codigo em si era a base
+de IF em cima de IF, parecia mais um hadouken
+( Creditos ao Casulo, grupo de estudos da faculdade, pela referencia ) 
+, entao para superar esse, o qual chamo de jogo da forca v0.1, 
+comecei a estudar, Python, atraves do:
+
+____________________________________________________________________________________
+
+Introdução à Computação Usando Python - Um Foco no Desenvolvimento de Aplicações
+
+PERKOVIC, Ljubomir
+
+
+Atualmente parado no volumne 12, afim de iniciar e finalizar esse projeto.
+
+____________________________________________________________________________________
+
+Codemy.com
+link:
+https://www.youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV
+
+____________________________________________________________________________________
+
+Tutorialspoint.com
+link:
+https://www.tutorialspoint.com/python/python_gui_programming.htm
+
+____________________________________________________________________________________
+
+Apos parar um pouco meu estudo sobre python e iniciar o projeto,
+jogo da forca v0.2, aprendi que nunca se deve:
+
+1. PRODUZIR UM CODIGO SEJA QUAL FOR SEM DOCUMENTAR ALGO
+
+2. FOCAR SO NO BACK PARA ALGO QUE TEM FRONT-END NUM DA CERTO
+
+3. TER PACIENCIA E ENTENDER O QUE DEU ERRADO
+
+4. SE DER ERRO, FICAR CALMO, TOMAR CAFE, E STACK OVER FLOW.
+
+Depois desses 4 passos meu v0.2 morreu com ~500 linhas T_T, ja nao
+tinha mais como recuperar e nem eu como seu criador sabia mais o que
+estava acontecendo com o codigo.
+
+Obs.: Nesse dia eu finalmente entendi os ensinamentos do
+Prof. Igor de engenharia de software, sobre a importancia
+da documentacao.
+____________________________________________________________________________________
+
+O jogo da forca v0.3 nasceu entao 1 dia depois, e muito cafe,
+o objetivo sendo o mesmo um jogo da forca voltado para o auto-estudo
+e a logica de programacao orientada a python, nesse tempo tinha 
+finalizado o inicio do estudo de classes e hoje sei o quao 
+rudimentar meu codigo atual e, mas como principal objetivo era a 
+capacidade de rodar junto a qualquer outro codigo entao acredito ter 
+cumprido esse objetivo, launchers sao complicado =/,
+ele foi feito orientado ao front-end uma tela de cada vez e independentes,
+exceto com os transportadores (self.palavra), prezei pela capacidade de
+as telas e a musica serem facilmente modificaveis e ainda pretendo 
+refinar o codigo com a capacidade de se comunicar com html e outras 
+coisas, mas por agora e hora de bom descanço.
+
+Obrigado pela atencao e tenho um bom dia.
+
+" A little bird drowing in coffe. "

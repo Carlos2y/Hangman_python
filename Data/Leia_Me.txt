@@ -1,0 +1,86 @@
+Caso um erro de arquivo seja levantado,
+basta criar o mesmo nas pastas designadas.
+
+---------------------------------------------------
+
+# ! > Forca > Music > !
+
+Para Musicas, o nome do arquivo sendo lido:
+
+# Music_BackGround.mp3 #
+
+Musica padrao : Beethoven No.9 Symphonia.
+
+Link: https://www.youtube.com/watch?v=t3217H8JppI
+
+
+---------------------------------------------------
+
+
+# ! > Forca > Imgs > !
+
+Para imagens o nome dos arquivos sendo lidos:
+
+Forca
+Forca_2
+Vitoria
+Derrota
+Dark
+
+Todos .png
+
+
+---------------------------------------------------
+
+
+# ! > Forca > Palavras_Lista.txt
+
+E a lista de palavras que vem como padrão para
+
+o jogador. Pode ser modificada facilmente,
+
+adicione a palavra no arquivo em linhas unica,
+
+seguindo o padrão atual.
+
+
+Link: https://www.dicio.com.br/
+
+Caso deseje mais palavras recomendo esse link.
+
+Palavra 1
+Palavra 2
+''''''' n
+Sua Palava
+
+/ ou /
+
+Palavra 1
+Sua Palavra
+Palavra 2
+''''''' n
+
+/ ou /
+
+Sua Palavra
+Palavra 1
+Palavra 2
+''''''' n
+
+
+Nota: Palavras com espaço e na mesma linha não serão consideradas.
+Ex.: A B c
+
+
+---------------------------------------------------
+
+
+Duvidas ou Sugestões?
+
+Enviar para:
+
+anderson.carlos.mp.98@gmail.com
+
+
+
+---------------------------------------------------
