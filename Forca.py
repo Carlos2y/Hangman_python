@@ -775,7 +775,7 @@ class Forca:
         tela_Creditos.title('SOBRE O CRIADOR.')  # TITULO DA TELA
         tela_Creditos.geometry("1400x743")  # TAMANHO TOTAL DA TELA
         tela_Creditos.iconbitmap(r'Data\Extra\ISSTH_Lord_Fifth.ico')  # ICONE DA TELA
-        Tela_BG = ImageTk.PhotoImage(Image.open(r'Data\Extra\123.jpeg').resize(self.side))  # IMAGEM DE FUNDO DA TELA
+        Tela_BG = ImageTk.PhotoImage(Image.open(r'Data\Extra\Sun.png').resize(self.side))  # IMAGEM DE FUNDO DA TELA
         Image_1 = ImageTk.PhotoImage(Image.open(r'Data\Extra\ISSTH_Lord_Fifth.png'))  # IMAGEM 1 LORD FIFTH
         Image_2 = ImageTk.PhotoImage(Image.open(r'Data\Extra\Foto.png'))  # IMAGEM 2  EU
 
